@@ -2,20 +2,20 @@
 // src/components/Projects.jsx
 // =============================
 import React, { useState, useEffect } from "react";
-import FunSongLyrics from "../assets/Project/1.jpg"
-import CakralogyV1 from "../assets/Project/2.jpg"
-import RexxCodePort1 from "../assets/Project/3.jpg"
-import OnicEsport from "../assets/Project/4.jpg"
-import MovieRexx from "../assets/Project/5.jpg"
-import SejarahIslam from "../assets/Project/6.jpg"
-import CivilizationLibrary from "../assets/Project/7.jpg"
-import LibraryOfcivilization from "../assets/Project/8.jpg"
-import RexxCodePort2 from "../assets/Project/9.jpg"
-import RexxCodePort3 from "../assets/Project/10.jpg"
-import RexxCalc from "../assets/Project/11.jpg"
-import RexxCodePort4 from "../assets/Project/12.jpg"
-import RexxDocs from "../assets/Project/13.jpg"
-import RexxCodePort5 from "../assets/Project/14.jpg"
+import FunSongLyrics from "../assets/PROJECT/1.jpg"
+import CakralogyV1 from "../assets/PROJECT/2.jpg"
+import RexxCodePort1 from "../assets/PROJECT/3.jpg"
+import OnicEsport from "../assets/PROJECT/4.jpg"
+import MovieRexx from "../assets/PROJECT/5.jpg"
+import SejarahIslam from "../assets/PROJECT/6.jpg"
+import CivilizationLibrary from "../assets/PROJECT/7.jpg"
+import LibraryOfcivilization from "../assets/PROJECT/8.jpg"
+import RexxCodePort2 from "../assets/PROJECT/9.jpg"
+import RexxCodePort3 from "../assets/PROJECT/10.jpg"
+import RexxCalc from "../assets/PROJECT/11.jpg"
+import RexxCodePort4 from "../assets/PROJECT/12.jpg"
+import RexxDocs from "../assets/PROJECT/13.jpg"
+import RexxCodePort5 from "../assets/PROJECT/14.jpg"
 import RexxyAdzka from "../assets/PROJECT/15.jpg"
 import Astrava from "../assets/PROJECT/16.jpg"
 import CakralogyITECHNO from "../assets/PROJECt/17.jpg"
@@ -47,7 +47,7 @@ const projects = [
     name: "GreenovaTech",
     img: GreenovaTech,
     desc: "Sustainable Technology Solutions for Modern Digital Ecosystems",
-    tech: ["Bootstrap", "TailwindCSS", "JavaScript"],
+    tech: ["Bootstrap", "TailwROJECT", "JavaScript"],
     type: "Public",
   },
   {
