@@ -3,7 +3,7 @@
 // =============================
 import React, { useEffect, useState } from "react";
 import { Github, Linkedin, Mail, Instagram } from "lucide-react";
-import Logo from "../assets/ProfilImage.jpg";
+import Logo from "../assets/ADZKA.jpg";
 
 export default function Hero() {
   const [typedText, setTypedText] = useState("");

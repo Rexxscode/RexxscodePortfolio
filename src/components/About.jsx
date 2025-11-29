@@ -2,7 +2,7 @@
 // src/components/About.jsx
 // =============================
 import React, { useEffect } from "react";
-import Logo from "../assets/PROPIL.jpg";
+import Logo from "../assets/ADZKA.jpg";
 
 export default function About() {
   useEffect(() => {
