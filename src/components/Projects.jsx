@@ -20,6 +20,7 @@ import RexxyAdzka from "../assets/PROJECT/15.jpg"
 import Astrava from "../assets/PROJECT/16.jpg"
 import CakralogyITECHNO from "../assets/PROJECT/17.jpg"
 import GreenovaTech from "../assets/PROJECT/18.jpg"
+import MyTugas from "../assets/PROJECT/19.jpg"
 
 const projects = [
   {
@@ -47,7 +48,14 @@ const projects = [
     name: "GreenovaTech",
     img: GreenovaTech,
     desc: "Sustainable Technology Solutions for Modern Digital Ecosystems",
-    tech: ["Bootstrap", "TailwROJECT", "JavaScript"],
+    tech: ["Bootstrap", "TailwindCSS", "JavaScript"],
+    type: "Public",
+  },
+  {
+    name: "MyTugas",
+    img: MyTugas,
+    desc: "To-Do List Application",
+  tech: ["Bootstrap", "PHP", "MySQL"],
     type: "Public",
   },
   {
