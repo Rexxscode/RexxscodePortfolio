@@ -21,6 +21,7 @@ import Astrava from "../assets/PROJECT/16.jpg"
 import CakralogyITECHNO from "../assets/PROJECT/17.jpg"
 import GreenovaTech from "../assets/PROJECT/18.jpg"
 import MyTugas from "../assets/PROJECT/19.jpg"
+import HOKAPEX from "../assets/PROJECT/20.jpg"
 
 const projects = [
   {
@@ -55,7 +56,14 @@ const projects = [
     name: "MyTugas",
     img: MyTugas,
     desc: "To-Do List Application",
-  tech: ["Bootstrap", "PHP", "MySQL"],
+    tech: ["Bootstrap", "PHP", "MySQL"],
+    type: "Public",
+  },
+  {
+    name: "HOKAPEX",
+    img: HOKAPEX,
+    desc: "Enterprise Business Management Landing Page",
+    tech: ["ReactJS", "TailwindCSS", "NextJS"],
     type: "Public",
   },
   {
@@ -156,6 +164,7 @@ const projects = [
     tech: ["HTML", "CSS", "JavaScript"],
     type: "Private",
   },
+  
 ];
 
 
